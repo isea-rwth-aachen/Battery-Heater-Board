@@ -1,0 +1,16 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Heating_Board.PcbDoc   17.06.2024  09:11:45
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Heating_Board-RoundHoles.TXT
+ASCII SlotHoles File : Heating_Board-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      47mil (1.2mm)                                             Slot              6         PTH        6.87inch (174.40mm)
+T2      394mil (10mm)                                             Round             4         PTH        10.75inch (273.14mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              10
+
+Total Processing Time (hh:mm:ss) : 00:00:00

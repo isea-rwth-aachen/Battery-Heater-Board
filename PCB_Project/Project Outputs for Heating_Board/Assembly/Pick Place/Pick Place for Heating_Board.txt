@@ -1,0 +1,58 @@
+Altium Designer Pick and Place Locations
+C:\Users\abl\AppData\Local\TempReleases\Snapshot\1\Assembly\Pick Place\Pick Place for Heating_Board.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       17.06.24
+Time:       09:11
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Center-X(mil) Center-Y(mil) Comment               Description                                                                                            Designator Footprint                Layer    Rotation 
+846.457       944.882       ERA-3AEB104V          "499k Ohm, 1%, 0.1W, 0603, AEC-Q200"                                                                   R8         PANASONIC_RES_0603       TopLayer 270      
+640.748       1050.197      ERJ-3EKF1003V         "100k Ohm, 1%, 0.1W, 0603, AEC-Q200"                                                                   R13        PANASONIC_RES_0603       TopLayer 90       
+586.220       1340.551      SI82394CD-IS          "4A Gate Driver Capacitive Coupling 5000Vrms 2 Channel 16-SOIC"                                        U6         SKYWORKS_SOIC-16_WB      TopLayer 90       
+612.205       946.272       ERJ-S030R00V          "0 Ohm, 1%, 0.1W, 0603, AEC-Q200"                                                                      R12        PANASONIC_RES_0603       TopLayer 0        
+607.283       709.560       ERJ-S030R00V          "0 Ohm, 1%, 0.1W, 0603, AEC-Q200"                                                                      R11        PANASONIC_RES_0603       TopLayer 180      
+362.205       2224.409      UMK325AB7106MM-T      "10 uF, 20%, 50 VDC, 1210, X7R"                                                                        C18        Taiyo_MLCC_1210          TopLayer 90       
+1181.102      2078.740      UMK325AB7106MM-T      "10 uF, 20%, 50 VDC, 1210, X7R"                                                                        C17        Taiyo_MLCC_1210          TopLayer 180      
+992.126       1523.622      UMK325AB7106MM-T      "10 uF, 20%, 50 VDC, 1210, X7R"                                                                        C4         Taiyo_MLCC_1210          TopLayer 90       
+633.858       580.623       GRM188Z71A106KA73D    "10 uF, 10%, 10 VDC, 0603, X7R"                                                                        C14        MURATA_MLCC_0603         TopLayer 90       
+882.874       1121.063      UMK107AB7105KA-T      "1 uF, 10%, 50 VDC, 0603, X7R"                                                                         C9         TAIYO_MLCC_0603          TopLayer 270      
+580.709       1630.007      UMK107AB7105KA-T      "1 uF, 10%, 50 VDC, 0603, X7R"                                                                         C1         TAIYO_MLCC_0603          TopLayer 90       
+1181.102      1807.087      GCM31CR71H225KA55L    "2.2 uF, 10%, 50 VDC, 1206, X7R, AEC-Q200"                                                             C11        MURATA_MLCC_1206         TopLayer 180      
+1181.102      1893.701      GCM31CR71H225KA55L    "2.2 uF, 10%, 50 VDC, 1206, X7R, AEC-Q200"                                                             C10        MURATA_MLCC_1206         TopLayer 180      
+1181.102      1980.315      GCM31CR71H225KA55L    "2.2 uF, 10%, 50 VDC, 1206, X7R, AEC-Q200"                                                             C3         MURATA_MLCC_1206         TopLayer 180      
+3125.984      1979.331      HEATER_RESISTOR_10R   "Heater Resistor (made from PCB traces)"                                                               R4         heater_10R               TopLayer 0        
+735.236       584.560       MCP4901T-E/MS         "8-Bit DAC with SPI Interface, 8-Pin MSOP, Extended Temperature, Tape and Reel"                        U9         MICROCHIP_MSOP8          TopLayer 90       
+727.362       840.465       'LTC6992CDCB-1#TRMPBF "Voltage-Controlled Pulse Width Modulator (PWM)"                                                       U8         ADI_DFN_6_lead           TopLayer 90       
+751.968       911.417       ERA-3AEB104V          "100k Ohm, 0.1%, 0.01W, 0603, AEC-Q200"                                                                R9         PANASONIC_RES_0603       TopLayer 0        
+261.811       450.702       3020-06-0300-00-TR    "Header 6 positions, 2.54mm pitch, SMD"                                                                P2         CNCTech_Header_6pins_smd TopLayer 90       
+576.772       580.623       GCM188R71H104KA57J    "100 nF, 10%, 50 VDC, 0603, X7R"                                                                       C15        MURATA_MLCC_0603         TopLayer 270      
+713.583       768.701       GCM188R71H104KA57J    "100 nF, 10%, 50 VDC, 0603, X7R"                                                                       C13        MURATA_MLCC_0603         TopLayer 0        
+739.173       1716.535      'ERJ-3EKF5101V        "5.1k Ohm, 1%, 0.1W, 0603, AEC-Q200"                                                                   R7         PANASONIC_RES_0603       TopLayer 180      
+499.016       1714.567      'ERJ-3EKF5101V        "5.1k Ohm, 1%, 0.1W, 0603, AEC-Q200"                                                                   R6         PANASONIC_RES_0603       TopLayer 180      
+760.827       1053.150      ERJ-3GEYJ203V         "20k Ohm, 5%, 0.1W, 0603, AEC-Q200"                                                                    R5         PANASONIC_RES_0603       TopLayer 90       
+710.630       1631.890      ERJ-3GEYJ3R0V         "3 Ohm, 5%, 0.1W, 0603, AEC-Q200"                                                                      R3         PANASONIC_RES_0603       TopLayer 90       
+461.614       1631.890      ERJ-3GEYJ3R0V         "3 Ohm, 5%, 0.1W, 0603, AEC-Q200"                                                                      R2         PANASONIC_RES_0603       TopLayer 90       
+393.701       1749.016      ERJ-U6QFR47V          "0.47 Ohm, 1%, 0.25W, 0805, AEC-Q200"                                                                  R1         PANASONIC_RES_0805       TopLayer 90       
+750.984       1962.008      NTMYS8D0N04CTWG       "N-Channel 40 V 49A (Ta) 38W (Tc) Surface Mount LFPAK"                                                 Q2         OnSemi-LFPAK-5_L         TopLayer 180      
+436.024       1960.433      NTMYS8D0N04CTWG       "N-Channel 40 V 49A (Ta) 38W (Tc) Surface Mount LFPAK"                                                 Q1         OnSemi-LFPAK-5_L         TopLayer 180      
+773.622       2299.213      PA4342.273NLT         "27 uH, Iheat: 4A, Isat: 6A, typ DC res: 86mOhm, High Current Molded Power Inductor"                   L1         PULSE_PA4342.273NLT      TopLayer 90       
+790.354       1787.402      MMSZ4707T1G           "Zener Voltage Regulator, 20V, 500 mW, 2-Pin SOD-123"                                                  D3         OnSemi_SOD-123-2         TopLayer 0        
+537.795       1781.496      MMSZ4707T1G           "Zener Voltage Regulator, 20V, 500 mW, 2-Pin SOD-123"                                                  D2         OnSemi_SOD-123-2         TopLayer 0        
+352.362       1587.106      SS30100HE_R1_00001    "DIODE SCHOTTKY 100V 3A SOD-123HE"                                                                     D1         Panjit_SOD-123HE         TopLayer 90       
+827.756       1121.063      GCM188R71H104KA57J    "100 nF, 10%, 50 VDC, 0603, X7R"                                                                       C8         MURATA_MLCC_0603         TopLayer 90       
+695.866       1048.228      GCM1885C2A101FA16D    "100 pF, 1%, 100 VDC, 0603, C0G"                                                                       C7         MURATA_MLCC_0603         TopLayer 270      
+814.961       1527.559      GCM188R71H103KA37J    "10 nF, 10%, 50 VDC, 0603, X7R"                                                                        C6         MURATA_MLCC_0603         TopLayer 90       
+885.827       1527.559      KGM31MR71H224JU       "220 nF, 5%, 50 VDC, 1206, X7R"                                                                        C5         AVX_MLCC_1206            TopLayer 90       
+637.795       1625.984      GCM188R71H104KA57J    "100 nF, 10%, 50 VDC, 0603, X7R"                                                                       C2         MURATA_MLCC_0603         TopLayer 270      
+375.967       2795.276      2061-602/998-404      "SMD Terminal Block 2 Positions, Pitch 6mm"                                                            P3         WAGO_2061-602/998-404    TopLayer 90       
+238.189       3357.874      3020-06-0300-00-TR    "Header 6 positions, 2.54mm pitch, SMD"                                                                P1         CNCTech_Header_6pins_smd TopLayer 90       
+4271.653      610.236       DS18B20U+T&R          "High-Precision 1-Wire Digital Thermometer, -55 to 125 degC, 8-Pin SOP (U8+1), Pb-Free, Tape and Reel" U5         MAXIM_SOP8               TopLayer 0        
+2125.984      610.236       DS18B20U+T&R          "High-Precision 1-Wire Digital Thermometer, -55 to 125 degC, 8-Pin SOP (U8+1), Pb-Free, Tape and Reel" U4         MAXIM_SOP8               TopLayer 0        
+4271.653      3346.457      DS18B20U+T&R          "High-Precision 1-Wire Digital Thermometer, -55 to 125 degC, 8-Pin SOP (U8+1), Pb-Free, Tape and Reel" U3         MAXIM_SOP8               TopLayer 0        
+2125.984      3346.457      DS18B20U+T&R          "High-Precision 1-Wire Digital Thermometer, -55 to 125 degC, 8-Pin SOP (U8+1), Pb-Free, Tape and Reel" U2         MAXIM_SOP8               TopLayer 0        
+3149.606      1972.441      DS18B20U+T&R          "High-Precision 1-Wire Digital Thermometer, -55 to 125 degC, 8-Pin SOP (U8+1), Pb-Free, Tape and Reel" U1         MAXIM_SOP8               TopLayer 0        

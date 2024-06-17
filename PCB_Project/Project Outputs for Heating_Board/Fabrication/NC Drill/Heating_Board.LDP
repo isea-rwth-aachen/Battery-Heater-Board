@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\abl\AppData\Local\TempReleases\Snapshot\1\Heating_Board.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=heating_board-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=heating_board-slotholes.txt|DrillLayers=gtl,gbl
